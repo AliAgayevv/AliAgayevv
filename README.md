@@ -6,7 +6,7 @@
 
 ✅ You can ask me to help you: React, tailwind, git and data structures.
 
-🤑 Fun fact: I am currently a small businessman
+🤑 Fun fact: Despite I am a frontend developer, I have extensive knowledge of C++ and data structures.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-aghayev-6804b9302/)
