@@ -1,5 +1,5 @@
 # 🚀 About Me:
-🧑‍🎓 Currently studying on: Turing academy and Azerbaijan Technical University
+🧑‍🎓 Currently studying on:  Azerbaijan Technical University
 
 
 📚 Currently learning: I'm exploring the depths of React.js to improve my coding expertise and learn how React works
