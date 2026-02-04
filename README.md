@@ -9,7 +9,7 @@
 🤑 Fun fact: Despite I am a frontend developer, I have extensive knowledge of C++ and data structures.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-aghayev-6804b9302/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aghayev-ali/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ali.agayevh/) 
 
 # 💻 Tech Stack:
